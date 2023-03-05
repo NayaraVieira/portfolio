@@ -112,6 +112,9 @@ body {
 
 .apresentacao__imagem {
     width: 50%;
+    border-radius: 50%;
+    height: auto;
+    border: solid 3px var(--cor-terciaria);
 }
 
 .rodape {
